@@ -1,4 +1,4 @@
-## My Skills
+## Used Languages
 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
 
